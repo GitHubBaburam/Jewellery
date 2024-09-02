@@ -72,5 +72,9 @@
         margin: 0 auto;
 
     }
+
+    #login{
+        width: 75%;
+    }
     
 }
